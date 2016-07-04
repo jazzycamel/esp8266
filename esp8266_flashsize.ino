@@ -1,3 +1,6 @@
+/*
+When run, this sketch will test and report the size of the flash memory used by the ESP8266.
+*/
 #include <Arduino.h>
 
 extern "C" {
