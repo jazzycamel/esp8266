@@ -1,3 +1,6 @@
+/*
+A very simple blink sketch to ensure succesful programming.
+*/
 #define ESP8266_LED 5
 
 void setup() {
